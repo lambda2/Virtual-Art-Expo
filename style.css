@@ -41,12 +41,12 @@ h2{
 
 @font-face {
 	font-family: "GeosansLight";
-	src: url('../Fonts/GeosansLight-Oblique.ttf');
+        src: url('Fonts/GeosansLight-Oblique.ttf');
 }
 
 @font-face {
 	font-family: "Bebas";
-	src: url('../Fonts/BebasNeue.otf');
+        src: url('Fonts/BebasNeue.otf');
 }
 
 #logo{
