@@ -1,0 +1,44 @@
+vertex_program lightMasterA_VS hlsl
+{
+	source lightmaster.hlsl
+	target vs_3_0
+	entry_point multiTypeLightVS
+	preprocessor_defines lightCount=5
+	default_params
+	{
+		param_named_auto 	worldViewProj_m 	worldviewproj_matrix
+		param_named_auto	cameraPos		camera_position_object_space
+		param_named_auto	lightPoses		light_position_object_space_array	5
+	}
+}
+ 
+fragment_program lightMasterA_PS hlsl
+{
+	source lightmaster.hlsl
+	target ps_3_0
+	entry_point multiTypeLightPS
+	preprocessor_defines lightCount=5
+	default_params
+	{
+		param_named_auto	lightDirs		light_direction_object_space_array 	5
+		param_named_auto	SLParamsArray		spotlight_params_array			5
+		param_named_auto	diffColors		light_diffuse_colour_array		5
+		param_named_auto	specColors		light_specular_colour_array		5
+		param_named_auto	lightAttens		light_attenuation_array			5
+		param_named_auto	lightDists		light_distance_object_space_array	5
+		param_named_auto	ambientColor		ambient_light_colour
+		param_named specShine float 55
+	}
+}
+ 
+material lightMasterA
+{
+	technique
+	{
+		pass
+		{
+			vertex_program_ref lightMasterA_VS {}
+			fragment_program_ref lightMasterA_PS {}
+		}
+	}
+}

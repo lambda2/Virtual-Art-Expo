@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/splash.png</file>
+        <file>style.qcss</file>
+        <file>res/loaderDessin.gif</file>
+        <file>res/fondBouton.png</file>
+        <file>res/dessinerMur.png</file>
+        <file>res/iconeGrille.png</file>
+        <file>res/selectionner.png</file>
+        <file>res/supprimer.png</file>
+        <file>res/copy.png</file>
+        <file>res/clear.png</file>
+        <file>res/cut.png</file>
+        <file>res/fullscreen.png</file>
+        <file>res/new.png</file>
+        <file>res/open.png</file>
+        <file>res/paste.png</file>
+        <file>res/redo.png</file>
+        <file>res/save.png</file>
+        <file>res/saveas.png</file>
+        <file>res/undo.png</file>
+        <file>res/surelevation.png</file>
+        <file>res/courbe.png</file>
+        <file>res/pattern.png</file>
+        <file>res/passerVueFace.png</file>
+        <file>res/porte.png</file>
+        <file>res/param.png</file>
+        <file>res/deverouiller.png</file>
+        <file>res/cadenas.png</file>
+        <file>res/normalscreen.png</file>
+        <file>res/passerVueHaut.png</file>
+        <file>res/porte.svg</file>
+        <file>res/fondnotif.png</file>
+        <file>res/VAElogo.png</file>
+        <file>res/vue3D.png</file>
+        <file>res/fleche.svg</file>
+        <file>res/Change.png</file>
+        <file>res/engrenage_big.png</file>
+        <file>res/logo_long.png</file>
+        <file>res/logo.png</file>
+        <file>res/logo_line.png</file>
+        <file>res/logo_haut.png</file>
+        <file>res/chaise.png</file>
+        <file>res/pointDepart.png</file>
+    </qresource>
+</RCC>

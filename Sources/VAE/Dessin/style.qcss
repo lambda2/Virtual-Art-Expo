@@ -1,0 +1,88 @@
+QMainWindow {
+    background-color : #D6D6D6;
+}
+
+QPushButton {
+    background-color : #EEE;
+    border : 1px solid #666;
+    padding : 5px 20px 5px 20px;
+    border-radius : 2px;
+    color: #333;
+}
+
+QPushButton:hover {
+    background-color : #EAEAEA;
+    border : 1px solid #555;
+    padding : 5px 20px 5px 20px;
+    border-radius : 2px;
+    color: #333;
+}
+
+QPushButton:checked {
+    background-color : #666;
+    border : 1px solid #CCC;
+    color : white;
+    padding : 5px 20px 5px 20px;
+    border-radius : 2px;
+    color: #333;
+}
+
+
+QToolButton {
+    margin : 3px;
+    padding : 1px;
+    border-radius : 2px;
+}
+
+
+QToolButton:pressed {
+margin : 3px;
+padding : 1px;
+background-color : #888;
+border-radius : 2px;
+}
+
+QToolButton:hover {
+margin : 3px;
+padding : 1px;
+background-color : #BBB;
+border-radius : 2px;
+}
+
+QToolButton:checked {
+margin : 3px;
+padding : 1px;
+background-color : #AAA;
+border-top : 2px solid rgb(100,100,100);
+border-left : 2px solid rgb(100,100,100);
+border-radius : 2px;
+}
+
+QCheckBox {
+    color: #333;
+}
+
+QCheckBox::indicator {
+
+    color: #333;
+}
+
+QSpinBox {
+color: #333;
+}
+
+QDoubleSpinBox {
+color: #333;
+}
+
+QLabel {
+color: #333;
+}
+
+QToolBar {
+     spacing: 3px; /* spacing between items in the tool bar */
+ }
+
+QToolBar:handle {
+     background-color : rgba(0,0,0,0);
+ }

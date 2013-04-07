@@ -1,0 +1,32 @@
+02:06:05: Creating resource group General
+02:06:05: Creating resource group Internal
+02:06:05: Creating resource group Autodetect
+02:06:05: SceneManagerFactory for type 'DefaultSceneManager' registered.
+02:06:05: Registering ResourceManager for type Material
+02:06:05: Registering ResourceManager for type Mesh
+02:06:05: Registering ResourceManager for type Skeleton
+02:06:05: MovableObjectFactory for type 'ParticleSystem' registered.
+02:06:05: OverlayElementFactory for type Panel registered.
+02:06:05: OverlayElementFactory for type BorderPanel registered.
+02:06:05: OverlayElementFactory for type TextArea registered.
+02:06:05: Registering ResourceManager for type Font
+02:06:05: ArchiveFactory for archive type FileSystem registered.
+02:06:05: ArchiveFactory for archive type Zip registered.
+02:06:05: DDS codec registering
+02:06:05: FreeImage version: 3.10.0
+02:06:05: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+02:06:05: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,sgi,exr,j2k,j2c,jp2
+02:06:05: Registering ResourceManager for type HighLevelGpuProgram
+02:06:05: Registering ResourceManager for type Compositor
+02:06:05: MovableObjectFactory for type 'Entity' registered.
+02:06:05: MovableObjectFactory for type 'Light' registered.
+02:06:05: MovableObjectFactory for type 'BillboardSet' registered.
+02:06:05: MovableObjectFactory for type 'ManualObject' registered.
+02:06:05: MovableObjectFactory for type 'BillboardChain' registered.
+02:06:05: MovableObjectFactory for type 'RibbonTrail' registered.
+02:06:05: Loading library /usr/lib/OGRE/RenderSystem_GL
+02:06:05: Installing plugin: GL RenderSystem
+02:06:05: OpenGL Rendering Subsystem created.
+02:06:05: Plugin successfully installed
+02:06:05: Loading library /usr/lib/OGRE/Plugin_CgProgramManager
+02:06:05: OGRE EXCEPTION(7:InternalErrorException): Could not load dynamic library /usr/lib/OGRE/Plugin_CgProgramManager.  System Error: /usr/lib/OGRE/Plugin_CgProgramManager.so: cannot open shared object file: No such file or directory in DynLib::load at /builddir/build/BUILD/ogre-1.7.3/OgreMain/src/OgreDynLib.cpp (line 91)

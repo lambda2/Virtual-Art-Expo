@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/aurandre/logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="1.25532 : 687.1134 : 1"
+       inkscape:vp_y="-465.58394 : 885.0037 : 0"
+       inkscape:vp_z="663.35314 : 859.98041 : 1"
+       inkscape:persp3d-origin="504.32187 : 592.2514 : 1"
+       id="perspective3755" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="316.09659"
+     inkscape:cy="874.91197"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#bfbfbf;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="700"
+       height="150"
+       x="0"
+       y="152.36218" />
+    <g
+       id="g3823"
+       transform="translate(-97.285714,28.428574)">
+      <rect
+         y="160.93361"
+         x="130"
+         height="80"
+         width="100"
+         id="rect3785"
+         style="fill:#838383;fill-opacity:1;stroke:none" />
+      <rect
+         y="170.93361"
+         x="140"
+         height="60"
+         width="80"
+         id="rect3785-4"
+         style="fill:#686868;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3805"
+         d="m 158.03572,182.71932 13.39286,48.30357 -30.26787,1e-5 z"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3807"
+         d="m 161.07142,231.0229 20.53572,-52.58929 19.55357,52.41072 z"
+         style="fill:#b9b9b9;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3809"
+         d="m 192.50001,230.84432 9.64285,-29.01786 11.07143,29.01787 z"
+         style="fill:#a4a4a4;fill-opacity:1;stroke:none" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3830"
+       style="font-size:55px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#686868;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(-88.714286,32.905481)"><flowRegion
+         id="flowRegion3832"><rect
+           id="rect3834"
+           width="527.14288"
+           height="82.14286"
+           x="237.85715"
+           y="161.6479"
+           style="font-size:55px;text-align:center;text-anchor:middle;fill:#686868;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3836"
+         style="font-size:55px;text-align:center;text-anchor:middle;fill:#686868;fill-opacity:1">VIRTUAL ART EXPO</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#686868;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="415"
+       y="252.36217"
+       id="text3838"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3840"
+         x="415"
+         y="252.36217"
+         style="font-size:55px;fill:#686868;fill-opacity:1" /></text>
+    <rect
+       style="fill:#737373;fill-opacity:1;stroke:none"
+       id="rect3850"
+       width="700"
+       height="25"
+       x="0"
+       y="277.36218" />
+    <rect
+       style="fill:#737373;fill-opacity:1;stroke:none"
+       id="rect3850-4"
+       width="700"
+       height="25.871172"
+       x="0"
+       y="152.49101" />
+  </g>
+</svg>

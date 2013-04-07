@@ -1,0 +1,11 @@
++ zziplib: Extract data from zip archives <http://zziplib.sourceforge.net>
++ freeimage: Support for commonly used graphics image formats <http://freeimage.sourceforge.net>
++ OpenGL ES 1.x: Support for the OpenGL ES 1.x render system (DEPRECATED) <http://www.khronos.org/opengles/>
++ cg: C for graphics shader language <http://developer.nvidia.com/object/cg_toolkit.html>
++ POCO: POCO framework <http://pocoproject.org/>
++ tbb: Threading Building Blocks <http://www.threadingbuildingblocks.org/>
++ GLSL Optimizer: GLSL Optimizer <http://github.com/aras-p/glsl-optimizer/>
++ HLSL2GLSL: HLSL2GLSL <http://hlsl2glslfork.googlecode.com/>
++ OIS: Input library needed for the samples <http://sourceforge.net/projects/wgois>
++ Softimage: Softimage SDK needed for building XSIExporter <FALSE>
++ CppUnit: Library for performing unit tests <http://cppunit.sourceforge.net>

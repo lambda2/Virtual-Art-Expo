@@ -1,0 +1,244 @@
+material patch
+{
+    technique
+    {
+        pass
+        {
+		ambient 0.5 0.5 0.5
+		diffuse 0.4 0.4 0.4
+            //polygon_mode wireframe
+		//texture_unit
+            //{
+                //texture essai_sol.png
+                //scale 0.1 0.1
+            //}
+        }
+    }
+}
+
+material cube_o
+{
+    technique
+    {
+        pass
+        {
+		ambient 0.0 0.0 1.0
+		diffuse 0.0 0.0 1.0
+        }
+    }
+}
+
+material cube_x
+{
+    technique
+    {
+        pass
+        {
+		ambient 0.5 0.5 0.5
+		diffuse 0.4 0.4 0.4
+		texture_unit
+            {
+                texture img_x.jpg
+                scale 1.0 1.0
+                rotate 180
+		    scroll_anim 0.5 0.0
+            }
+        }
+    }
+}
+
+material cube_y
+{
+    technique
+    {
+        pass
+        {
+		ambient 0.5 0.5 0.5
+		diffuse 0.4 0.4 0.4
+		texture_unit
+            {
+                texture img_y.jpg
+                scale 1.0 1.0
+                rotate 180
+		    scroll_anim 0.5 0.0
+            }
+        }
+    }
+}
+
+material cube_z
+{
+    technique
+    {
+        pass
+        {
+		ambient 0.5 0.5 0.5
+		diffuse 0.4 0.4 0.4
+		texture_unit
+            {
+                texture img_z.jpg
+                scale 1.0 1.0
+                rotate 180
+		    scroll_anim 0.5 0.0
+            }
+        }
+    }
+}
+
+material cube
+{
+    technique
+    {
+        pass
+        {
+		ambient 0.5 0.5 0.5
+		diffuse 0.4 0.4 0.4
+		//texture_unit
+            //{
+                //texture essai_sol.png
+                //scale 0.1 0.1
+            //}
+        }
+    }
+}
+
+material plafond
+{
+    technique
+    {
+        pass
+        {
+		ambient 1.0 1.0 1.0
+		diffuse 1.0 1.0 1.0
+		texture_unit
+            {
+                texture essai_sol.png
+                scale 0.0002 0.0002
+            }
+        }
+    }
+}
+
+material sol_blank
+{
+    technique
+    {
+        pass
+        {
+            ambient 0.4 0.4 0.4
+            diffuse 0.4 0.4 0.4
+        }
+	
+    }
+}
+
+material sol_moquette
+{
+    technique
+    {
+        pass
+        {
+            ambient 0.4 0.4 0.4
+            diffuse 0.4 0.4 0.4
+	texture_unit
+            {
+                texture moquette.jpg
+                scale 0.002 0.002
+            }
+        }
+	
+    }
+}
+
+material sol_parquet
+{
+    technique
+    {
+        pass
+        {
+            ambient 0.4 0.4 0.4
+            diffuse 0.4 0.4 0.4
+	texture_unit
+            {
+                texture parquet.jpg
+                scale 0.002 0.002
+            }
+        }
+	
+    }
+}
+
+material surelevation
+{
+    technique
+    {
+        pass
+        {
+            ambient 0.4 0.4 0.4
+            diffuse 0.7 0.7 0.7
+        }
+	
+    }
+}
+
+
+material test_tab
+{
+technique
+    {
+        pass
+        {
+            ambient 1.0 0.5 0.0
+            diffuse 1.0 0.5 0.0
+            
+            texture_unit
+            {
+                texture blog.png
+                scale 1.0 1.0
+            }
+        }
+	
+    }
+}
+
+material bois
+{
+    technique
+    {
+        pass
+        {
+            ambient 1.0 1.0 1.0
+            diffuse 0.3647 0.2117 0.1216            
+            scene_blend alpha_blend
+       depth_write off
+texture_unit
+            {
+                texture bois.tif
+                scale 0.005 0.005
+            }
+            
+
+
+        }
+	
+    }
+}
+
+material skybox
+{
+    technique
+    {
+        pass
+        {
+            ambient 1.0 1.0 1.0
+            diffuse 0.8 0.8 0.8
+texture_unit
+            {
+                texture sol.png
+            }
+        }
+	
+    }
+}
+
+
