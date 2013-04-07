@@ -278,8 +278,9 @@ h2{
 	height: auto;
 	border-right-color: #763B3B;
 	border-right-style: dashed;
-	border-right-width: 1px;
-	background-color: #CCCCCC;
+        border-right-width: 1px;
+        position: fixed;
+        top: 20px;
 }
 
 #contenu{
