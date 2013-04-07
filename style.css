@@ -275,10 +275,7 @@ h2{
 #menu{
 	float: left;
 	width: 320px;
-	height: auto;
-	border-right-color: #763B3B;
-	border-right-style: dashed;
-        border-right-width: 1px;
+        height: auto;
         position: fixed;
         top: 20px;
 }
@@ -288,6 +285,9 @@ h2{
         height: auto;
 	margin-left: 320px;
         padding-left: 20px;
+        border-left-color: #EEE;
+        border-left-style: dashed;
+        border-left-width: 1px;
 
 }
 
