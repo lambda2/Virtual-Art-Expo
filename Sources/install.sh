@@ -1,7 +1,7 @@
 #! /bin/bash
 
 echo "------------------------------------------------------------"
-echo "Programme d'installation de Virtual Art Expo - 2011 / 2012"
+echo "Programme d'installation de Virtual Art Expo - 2011 / 2013"
 echo "------------------------------------------------------------"
 echo "Installation de la bibliothèque OGRE"
 sudo add-apt-repository ppa:ogre-team/ogre
